@@ -8,6 +8,8 @@
   background-color: : #555;
   color: #f1f1f1;
   overflow: hidden;
+  position: fixed;
+  top: 0;
 
 h1 {
 	color: blue
