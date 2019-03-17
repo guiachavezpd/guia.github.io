@@ -1,13 +1,8 @@
-.banner {
-	width:100%;
-	height: 10px;
-	background-color: blue;
-}
 
 .navbar {
 	position: fixed;
 	width: 100%;
-	height: 20px;
+	height: 50px;
 	background-color: green;
 	flex: left
 }
